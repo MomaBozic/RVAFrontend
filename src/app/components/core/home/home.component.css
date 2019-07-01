@@ -1,0 +1,12 @@
+.title-center {
+    margin: 0 auto;
+}
+
+.image {
+    height: 50em;
+    background-size: 80%;
+    width: auto;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+}
